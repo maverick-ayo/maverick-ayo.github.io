@@ -36,6 +36,18 @@ body {
 ol, ul {
 	list-style: none;
 }
+swiper-slide {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); /* Floating effect */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+swiper-slide:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
 
 blockquote, q {
 	quotes: none;
