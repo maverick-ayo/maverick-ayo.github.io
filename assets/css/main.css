@@ -71,6 +71,11 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+.testimonial-stars {
+  color: #ffc107; /* Star gold color */
+  font-size: 1.3em;
+  margin-bottom: 10px;
+}
 
 /* Basic */
 
