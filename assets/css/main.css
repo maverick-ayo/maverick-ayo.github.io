@@ -76,6 +76,17 @@ input, select, textarea {
   font-size: 1.3em;
   margin-bottom: 10px;
 }
+.testimonial-author {
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 0.95em;
+}
+.testimonial-text {
+  font-style: italic;
+  font-size: 1.1em;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
 
 /* Basic */
 
