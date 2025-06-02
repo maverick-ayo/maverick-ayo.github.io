@@ -6,3 +6,73 @@
       <priority>1.00</priority>
    </url>
 </urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://maverick-ayo.github.io/</loc>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Website-Design-Getresponse-Integration.1.jpg</image:loc>
+      <image:caption>Professional landing page design with GetResponse integration by Maverick Ayo</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Website-Design-Getresponse-Integration.2.jpg</image:loc>
+      <image:caption>High-converting website layout featuring email marketing setup</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Website-Design-Getresponse-Integration.3.jpg</image:loc>
+      <image:caption>Mobile-optimized design with responsive email form by Maverick Ayo</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/banner.jpg</image:loc>
+      <image:caption>Hero banner showcasing digital marketing and web design services</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Awolusi-Ayomide-digital-marketer.jpg</image:loc>
+      <image:caption>Portrait of Maverick Ayo, expert in digital marketing and ecommerce</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Email-Marketing-Klaviyo-Integration.3.jpg</image:loc>
+      <image:caption>Website project with integrated Klaviyo email automation setup</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Email-Marketing-Klaviyo-Integration.1.jpg</image:loc>
+      <image:caption>Seamless email campaign integration using Klaviyo for online stores</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Ecommerce-Shopify-Website-Project-02.jpg</image:loc>
+      <image:caption>Shopify ecommerce website designed by Maverick Ayo with modern UI</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Ecommerce-Shopify-Website-Project-01.jpg</image:loc>
+      <image:caption>Conversion-focused Shopify homepage for an ecommerce client</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/pic02.jpg</image:loc>
+      <image:caption>Modern website template design used in Maverick Ayo’s projects</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/pic01.jpg</image:loc>
+      <image:caption>Creative portfolio thumbnail representing Maverick Ayo’s design work</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/favicon.ico</image:loc>
+      <image:caption>Website favicon of Maverick Ayo’s professional brand</image:caption>
+    </image:image>
+
+  </url>
+</urlset>
