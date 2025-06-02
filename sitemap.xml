@@ -1,8 +1,67 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://maverick-ayo.github.io/</loc>
-      <lastmod>2025-05-29</lastmod>
-      <priority>1.00</priority>
-   </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://maverick-ayo.github.io/</loc>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Website-Design-Getresponse-Integration.1.jpg</image:loc>
+      <image:caption>Professional GetResponse website integration by Maverick Ayo</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Website-Design-Getresponse-Integration.2.jpg</image:loc>
+      <image:caption>Modern GetResponse design layout – Maverick Ayo project</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Website-Design-Getresponse-Integration.3.jpg</image:loc>
+      <image:caption>GetResponse email marketing integration design by Maverick</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/banner.jpg</image:loc>
+      <image:caption>Maverick Ayo – Expert Website Designer & Digital Marketer Banner</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Awolusi-Ayomide-digital-marketer.jpg</image:loc>
+      <image:caption>Ayomide Awolusi – Maverick Ayo, professional digital marketer</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Email-Marketing-Klaviyo-Integration.3.jpg</image:loc>
+      <image:caption>Advanced Klaviyo email marketing design by Maverick Ayo</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Email-Marketing-Klaviyo-Integration.1.jpg</image:loc>
+      <image:caption>Klaviyo email automation interface built by Maverick Ayo</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Ecommerce-Shopify-Website-Project-02.jpg</image:loc>
+      <image:caption>Shopify ecommerce homepage design – Maverick Ayo project</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/Maverick-Ayo-Ecommerce-Shopify-Website-Project-01.jpg</image:loc>
+      <image:caption>Fully functional Shopify store design by Maverick Ayo</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/pic02.jpg</image:loc>
+      <image:caption>Website section mockup for business presentation</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://maverick-ayo.github.io/images/pic01.jpg</image:loc>
+      <image:caption>Professional site template preview from Maverick Ayo</image:caption>
+    </image:image>
+
+    <!-- Note: favicon.ico is not a valid image for sitemap image protocol -->
+    
+  </url>
+
 </urlset>
