@@ -37,6 +37,12 @@ body {
   background-color: #008000;
   text-align: center;
 }
+.about-us {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 800px; /* Optional: prevents it from getting too wide on desktops */
+  padding: 20px;
+}
 
 .projects-section h2 {
   font-size: 2em;
