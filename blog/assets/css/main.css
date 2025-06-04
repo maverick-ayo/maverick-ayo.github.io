@@ -1424,9 +1424,9 @@ ul.pagination {
         background-color: #008000;
         color: #ffffff !important; }
         ul.pagination li > .page.active:hover {
-          background-color: #f67878; }
+          background-color: #008000; }
         ul.pagination li > .page.active:active {
-          background-color: #f45c5c; }
+          background-color: #008000; }
     ul.pagination li:first-child {
       padding-right: 0.75em; }
     ul.pagination li:last-child {
@@ -1642,7 +1642,7 @@ button,
       text-align: center;
       width: 10em; }
       .features article .icon:before {
-        color: #f56a6a;
+        color: #008000;
         font-size: 2.75rem;
         position: relative;
         top: 0.05em; }
