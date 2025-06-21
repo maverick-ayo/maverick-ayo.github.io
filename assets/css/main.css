@@ -30,9 +30,6 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	background-color: #008000;
-	background-image: url('http://www.transparenttextures.com/patterns/3px-tile.png');
-	
 	line-height: 1;
 }
 .projects-section {
