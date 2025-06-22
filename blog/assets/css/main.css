@@ -78,7 +78,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  background-color: transparent;
+  background-color: #ffffff;
   background-image: url('https://www.onaspaceship.com/sites/g/files/g2000020246/files/2025-06/desktopBGImage.jpg'); }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
