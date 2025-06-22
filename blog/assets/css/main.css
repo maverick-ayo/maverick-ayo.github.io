@@ -78,7 +78,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  background-color: #ffffff;
+  background-color: #f7f1e1;
   background-image: url('https://maverick-ayo.github.io/blog/images/clean-gray-paper (1).png'); }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
