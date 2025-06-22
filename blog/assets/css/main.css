@@ -2259,8 +2259,7 @@ button,
   margin: 0.5em 0 0 0;
   padding: 0.5em 0 0 0; }
   #menu > ul > li > ul {
-    background-color: #f7f1e1;
-background-image: url('https://maverick-ayo.github.io/blog/images/clean-gray-paper (1).png');
+    color: #9fa3a6;
     display: none;
     margin: 0.5em 0 1.5em 0;
     padding-left: 1em; }
