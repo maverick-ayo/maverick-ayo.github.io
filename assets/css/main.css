@@ -4079,3 +4079,8 @@ body {
 	background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
+#cool {
+		background-color: #008000;
+		background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
+		
+}
