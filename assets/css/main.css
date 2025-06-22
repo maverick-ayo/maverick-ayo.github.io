@@ -4073,3 +4073,8 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #008000;
 	}
+.wrapper style1 special {
+		background-color: #008000;
+	background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
