@@ -3771,6 +3771,7 @@ input, select, textarea {
 			transition-delay: 1.25s;
 			content: '';
 			background: #008000;
+			background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
 			display: block;
 			width: 100%;
 			height: 100%;
