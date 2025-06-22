@@ -3970,27 +3970,27 @@ input, select, textarea {
 @media (max-width: 1680px) {
   footer {
     background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
-    background-size: cover;
+    
   }
 }
 
 @media (min-width: 1280px) {
   footer {
     background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
-    background-size: cover;
+    
   }
 }
 @media (max-width: 980px) {
   footer {
     background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
-    background-size: cover;
+
   }
 }
-
+	
 @media (min-width: 736px) {
   footer {
     background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
-    background-size: cover;
+    
   }
 }
 
