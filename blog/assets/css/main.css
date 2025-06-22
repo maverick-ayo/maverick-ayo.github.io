@@ -27,6 +27,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block; }
 
+#menu {
+	background-color: #f7f1e1;
+  background-image: url('https://maverick-ayo.github.io/blog/images/clean-gray-paper (1).png');
+}
+
 body {
   line-height: 1; }
 
