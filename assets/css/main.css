@@ -2563,7 +2563,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: ##056608;
+			background-color: #056608;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -4117,6 +4117,7 @@ body {
 #testimonials {
 		background-color: #056608;
 }
+
 
 
 
