@@ -34,7 +34,7 @@ body {
 }
 .projects-section {
   padding: 50px 20px;
-  background-color: #008000;
+  background-color: #056608;
   text-align: center;
 }
 
@@ -50,7 +50,7 @@ body {
 }
 
 .project-card {
-  background: #008000;
+  background: #056608;
   border-radius: 16px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   overflow: hidden;
@@ -2573,7 +2573,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #008000 !important;
+				background-color: #056608 !important;
 			}
 
 			input[type="submit"].primary:active,
@@ -2581,7 +2581,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #008000 !important;
+				background-color: #056608 !important;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2893,7 +2893,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #008000;
+			background-color: #056608;
 			color: #ffffff;
 		}
 
@@ -3329,7 +3329,7 @@ input, select, textarea {
 				}
 
 			.wrapper.style5 table th {
-				color: #008000;
+				color: #056608;
 			}
 
 			.wrapper.style5 table thead {
@@ -3521,7 +3521,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #008000;
+		background: #056608;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3770,8 +3770,7 @@ input, select, textarea {
 			-ms-transition-delay: 1.25s;
 			transition-delay: 1.25s;
 			content: '';
-			background: #008000;
-			background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
+			background: #056608;
 			display: block;
 			width: 100%;
 			height: 100%;
@@ -3964,32 +3963,30 @@ input, select, textarea {
 	#footer {
 		padding: 6em 0 4em 0 ;
 		background-color: #056608 !important;
-		background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png') !important;
 		text-align: center;
 	}
 @media (max-width: 1680px) {
   footer {
-    background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
+
     
   }
 }
 
 @media (min-width: 1280px) {
   footer {
-    background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
+   
     
   }
 }
 @media (max-width: 980px) {
   footer {
-    background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
+   
 
   }
 }
 	
 @media (min-width: 736px) {
   footer {
-    background-image: url('http://www.transparenttextures.com/patterns/diamond-upholstery.png');
     
   }
 }
@@ -4120,5 +4117,6 @@ body {
 #testimonials {
 		background-color: #056608;
 }
+
 
 
